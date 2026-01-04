@@ -8,7 +8,7 @@ Dapeng Chen, Yizhi Fan, Zihan Pan, Xuhui Hu, Hui Zhang, Lina Wei, Jia Liu, and A
 Nanjing University of Information Science and Technology  
 </p>
 
-</br>
+---
 <h2 align="center">Abstract</h2>
 
 <p align="justify">
